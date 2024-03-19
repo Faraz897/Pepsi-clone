@@ -1,0 +1,38 @@
+.abc{
+    position:sticky !important;
+    top: 0 !important;
+    z-index: 00000000 !important;
+}
+
+
+*{
+    
+    overflow-x: hidden;
+}
+
+
+
+
+.img1{
+    transition: 1s;
+}
+
+.img1:hover{
+    transform: scale(0.7);
+}
+
+
+.far{
+    font-size: 5vw;
+}
+
+.img2{
+    transition: 1s;
+}
+
+
+.img2:hover{
+    transform:scale(0.5);
+}
+
+
